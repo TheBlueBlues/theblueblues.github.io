@@ -10,6 +10,7 @@ h2 {
     padding:50px;
 }
 /*sets our background color for the art pages*/
+<<<<<<< HEAD
 .art {
     
     background: rgb(175, 227, 241); /* For browsers that do not support gradients */
@@ -17,15 +18,19 @@ h2 {
     background: -o-linear-gradient(white, rgb(175, 227, 241)); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(white, rgb(175, 227, 241)); /* For Firefox 3.6 to 15 */
     background: linear-gradient(white, rgb(175, 227, 241)); /* Standard syntax */
+=======
+.art{
+      background-color: rgb(148, 241, 191);
+>>>>>>> origin/master
 }
 
 /*set background color for the music pages*/
 .music{
-      background-color: rgb(148, 241, 239);
+      background-color: rgb(117, 241, 239);
 }
 /* sets backgrnd color for home and about page*/
 .other{
-      background-color: rgb(117, 241, 239)
+      background-color: rgb(175, 227, 241)
 }
 /*font size for the info portion*/
 .fonty{
